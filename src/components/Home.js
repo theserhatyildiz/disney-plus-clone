@@ -4,7 +4,9 @@ import ImgSlider from './ImgSlider'
 import Viewers from './Viewers'
 import Movies from './Movies'
 
+
 function Home() {
+
   return (
     <Container>
         <ImgSlider/>
